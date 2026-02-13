@@ -18,5 +18,4 @@ sudo make install
 
 ## Credits
 
-Idea and logic by Ikem Krueger, script by Google Gemini.
-
+Concept by Ikem Krueger, implemented with the help of Google Gemini.
